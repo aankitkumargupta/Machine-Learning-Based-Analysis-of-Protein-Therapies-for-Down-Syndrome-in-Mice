@@ -1,4 +1,4 @@
-# ML-Based-Analysis-of-Protein-Therapies-for-Downs-Syndrome-in-Mice
+# ML-Based-Analysis-of-Protein-Therapies-for-Down-Syndrome-in-Mice
 
 Implemented models for binary and multiclass classification to evaluate the effectiveness of protein types in treating Down's Syndrome in mice.
 Conducted thorough data cleaning, handled null values, eliminated irrelevant columns, and prepared the dataset for analysis.
